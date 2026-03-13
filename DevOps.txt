@@ -1,4 +1,7 @@
 Github
 Gitlab
-Docker Jenkins
+Docker 
+Jenkins
 Maven
+AWS
+DevOps
